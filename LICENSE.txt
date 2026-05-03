@@ -1,0 +1,45 @@
+VGM Risk Engine (Thin Client) — Dual License Agreement
+======================================================
+Copyright (c) 2025-2026 Dimitar Kretski
+Contact: kretski1@gmail.com
+
+This repository contains the "Thin Client" integration scripts (for Freqtrade, MT5, etc.) required to connect to the proprietary VGM Risk Engine Cloud API.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LICENSE 1 — FREE & RESEARCH USE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Permission is granted, free of charge, to any individual or academic institution to use, copy, modify, and study the CLIENT-SIDE integration code in this repository for personal, educational, or research purposes, subject to the following conditions:
+
+1. The above copyright notice must be included in all copies.
+2. The Free API tier is strictly for non-commercial testing and dry-runs.
+3. Any publication or presentation utilizing the VGM API data must cite the official Zenodo preprint (DOI: 10.5281/zenodo.19959346).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LICENSE 2 — COMMERCIAL USE (API SUBSCRIPTION)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Commercial use of the VGM Risk Engine requires a paid API subscription. Commercial use includes, but is not limited to:
+
+- Executing live trades with real capital for profit using VGM signals.
+- Integrating VGM data into commercial SaaS platforms, trading bots, or signal groups.
+- Managing third-party capital (Proprietary Trading Firms, Hedge Funds).
+
+SUBSCRIPTION TIERS (Subject to change):
+- PRO Tier: $25/month
+- PREMIUM Tier: $150/month
+- ENTERPRISE: Custom pricing based on AUM and infrastructure requirements.
+
+PROPRIETARY IP PROTECTION:
+The core mathematical backend, including the ORAC-NT entropy calculators, GARCH models, and ONNX Neural Networks (VGMNet), are proprietary intellectual property. They are NOT open-source and are NOT for sale. Reverse engineering, scraping, or attempting to replicate the API endpoints is strictly prohibited and will result in permanent API ban and legal action.
+
+For commercial API licensing inquiries, contact: kretski1@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DISCLAIMER OF LIABILITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+THIS SOFTWARE AND API SERVICE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. 
+
+VGM is a risk management analysis tool, not a financial advisor. The VGM Risk Engine does NOT guarantee trading profits or complete protection from market losses. All algorithmic trading involves severe financial risk. 
+
+Under no circumstances shall the author (Dimitar Kretski) or associated entities be held liable for any direct, indirect, incidental, special, or consequential damages, or financial losses arising from the use or inability to use this software or API. 
+
+USE ENTIRELY AT YOUR OWN RISK.
